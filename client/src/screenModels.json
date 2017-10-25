@@ -1,2 +1,7 @@
 {
+  "One": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
+  }
 }
