@@ -1,12 +1,5 @@
 {
   "id": "__BASE__",
   "name": "Pony",
-  "screens": [
-    {
-      "id": "1111",
-      "name": "1111",
-      "folder": true,
-      "screens": []
-    }
-  ]
+  "screens": []
 }
