@@ -13,12 +13,6 @@
       "name": "Name",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
-    },
-    {
-      "id": "Screen",
-      "name": "Screen",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
     }
   ]
 }
