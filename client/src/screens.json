@@ -1,12 +1,5 @@
 {
   "id": "__BASE__",
   "name": "Pony",
-  "screens": [
-    {
-      "id": "111",
-      "name": "111",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    }
-  ]
+  "screens": []
 }
