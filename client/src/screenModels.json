@@ -1,1 +1,7 @@
-{}
+{
+  "Second": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
+  }
+}
