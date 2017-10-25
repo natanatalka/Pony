@@ -3,8 +3,8 @@
   "name": "Pony",
   "screens": [
     {
-      "id": "First",
-      "name": "First",
+      "id": "Second",
+      "name": "Second",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
     }
